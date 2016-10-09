@@ -1,7 +1,6 @@
 /*
 *	smart_pointer.h
-*
-*
+*	@gitkkk/aycaramba
 *
 */
 
