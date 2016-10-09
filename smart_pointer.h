@@ -1,6 +1,5 @@
 /*
 *	smart_pointer.h
-*	kashyap.inbox@gmail.com
 *
 *
 *
